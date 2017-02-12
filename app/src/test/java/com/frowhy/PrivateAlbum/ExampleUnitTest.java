@@ -1,4 +1,4 @@
-package com.transportjp.demo;
+package com.frowhy.PrivateAlbum;
 
 import org.junit.Test;
 
